@@ -2,3 +2,10 @@
   width: 500px;
   height: 500px;
 }
+.jumbotron {
+  background-color: peachpuff;
+}
+
+body {
+  font-family: fantasy;
+}
